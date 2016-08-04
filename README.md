@@ -28,3 +28,4 @@ java.lang.NoSuchMethodError: com.fasterxml.jackson.core.base.GeneratorBase.getOu
         at java.lang.Thread.run(Thread.java:745)
 ```
 * run `./mvn test -Pv2.6.6` which manage Jackson version back to 2.6.6, all tests passed
+* run `./mvn test -Pv2.7.6` which manage Jackson version back to 2.7.6, all tests passed
